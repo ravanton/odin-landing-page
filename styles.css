@@ -61,11 +61,23 @@ h1 {
     flex-direction: column;
     width: 50%;
     justify-content: center;
+    margin-left: 100px;
+    
 }
 
 img {
     margin: 50px;
 }
 .p-first {
-    margin-left: 40px;
+    font-size: 18px;
+    margin-left: 2px;
+    color: #e5e7eb;
+}
+.sign-up-first-section {
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: #3882f6;
+    border-radius: 8px;
 }
