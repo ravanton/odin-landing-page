@@ -185,3 +185,12 @@ h4 {
     border: 1px solid white;
     border-radius: 8px;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    height: 70px;
+
+}
