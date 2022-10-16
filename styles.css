@@ -90,16 +90,18 @@ h2 {
 .row-of-blue-divs {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     max-width: 100%;
     margin: 100px;
     align-items: center;
+    gap: 65px;
+    padding: 10px;
 }
 .box-blue {
     border: 3px solid #3882f6;
     width: 150px;
     height: 150px;
-
+    
     border-radius: 10px;
 }
 .p-second {
